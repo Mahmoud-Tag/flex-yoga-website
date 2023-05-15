@@ -37,9 +37,7 @@ html {
 ::-webkit-scrollbar-thumb {
   background: var(--pink-color);
 }
-::-webkit-scrollbar-thumb:hover {
-  background: #09215a;
-}
+
 
 body {
   background-color: var(--white);
